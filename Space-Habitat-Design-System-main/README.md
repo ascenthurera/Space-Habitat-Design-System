@@ -208,12 +208,6 @@ Space-Habitat-Design-System/
 └── README.md                    # Project documentation
 ```
 
-### 👨‍🚀 Developer
-Muhammad Safwan Ahmad Saffi
-Software Engineer | AI & Space Tech Enthusiast
-
----
-
 [MIT](https://choosealicense.com/licenses/mit/) © 2025 Space-Habitat-Design-System (SHDS) Project. All Rights Reserved.
 
 
